@@ -1,53 +1,24 @@
-![][image1]
-
 # **Lógica de la programación Primer Cuatrimestre**
 
 ## *Guía de temas y ejercicios*
 
 **Profesor**: Romero Guillermo Felix
 
-**Año:** 2023
+**Año:** 2025
 
-**Versión: 0.7**
+1. [Estructura de un codigo c#](\docs\codestructure.md)  
+2. [Consola](\docs\console.md)  
+3. [Variables](\docs\variables.md)  
+4. [Condicional IF-ELSE](\docs\if.md)  
+5. [Switch](\docs\switch.md)  
+6. [While](\docs\while.md)  
+7. [For](\docs\for.md)  
+8. [Métodos](\docs\methods.md)  
+9. [colleciones Arrays](\docs\array.md)  
+10. [colleciones Listas](\docs\list.md)  
+11. [colleciones Matrices](\docs\exercises.md)  
+> [Ejercicios](\docs\exercises.md)
 
-ATENCIÓN\!\!\! un pequeño comentario:
-
-Esta guía está en desarrollo todavía, no es la versión final, todavía está sujeta a modificaciones y se va a ir actualizando a través del desarrollo del cuatrimestre.
-
-# **Visión general y objetivos**
-
-Esta guía ayudará al alumno a practicar y a ver temas que no se detallan tan en profundidad en clase.
-
-# **Requerimientos para realizar esta guía.**
-
-* Preferentemente tener instalado Unity (la misma que está instalada en Da Vinci obligatoriamente) con Visual Studio.  
-* Si no tenemos una computadora con Unity podemos usar [dotnetfiddle.net](https://dotnetfiddle.net/) mientras tanto conseguimos una.
-
-# **Consola**
-
-A la hora de ejecutar un algoritmo vamos a necesitar ver que está sucediendo. Para ello contamos con una línea de código que hace este trabajo **“mostrando en consola”** o **“printeando”** un mensaje deseado.
-
-Dentro de Unity tenemos las dos opciones más comunes.
-
- ***![][image2]***
-
-En caso de no poder usar Unity podemos abrir una aplicación de consola en Visual Studio o correr nuestro código online en [**dotnet fiddle.net**](https://dotnetfiddle.net/). En ese caso el printeo va a ser…
-
-![][image3]
-
-## 
-
-## Ejercicio n°000
-
-Instalar Unity
-
-## Ejercicio n°001
-
-Imprimir en consola el mensaje “Hola mundo”.
-
-## Ejercicio n°002
-
-Hacer 3 printeos seguidos por consola con 3 mensajes distintos a gusto.
 
 # **Concatenar mensajes**
 
