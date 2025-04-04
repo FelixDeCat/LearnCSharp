@@ -8,15 +8,21 @@
 
 1. [Estructura de un codigo c#](\docs\codestructure.md)  
 2. [Consola](\docs\console.md)  
-3. [Variables](\docs\variables.md)  
+3. [Variables](\docs\variables\variables.md)
+    1. [int](\docs\variables\int.md)
+    2. [float](\docs\variables\float.md)
+    3. [bool](\docs\variables\bool.md)
+    4. [char](\docs\variables\char.md)
+    5. [string](\docs\variables\string.md)
+    6. [object](\docs\variables\object.md)
 4. [Condicional IF-ELSE](\docs\if.md)  
 5. [Switch](\docs\switch.md)  
 6. [While](\docs\while.md)  
 7. [For](\docs\for.md)  
 8. [Métodos](\docs\methods.md)  
-9. [colleciones Arrays](\docs\array.md)  
-10. [colleciones Listas](\docs\list.md)  
-11. [colleciones Matrices](\docs\exercises.md)  
+9. [Colleciones Arrays](\docs\array.md)  
+10. [Colleciones Listas](\docs\list.md)  
+11. [Colleciones Matrices](\docs\exercises.md)  
 > [Ejercicios](\docs\exercises.md)
 
 
@@ -28,69 +34,6 @@ Para lograr unir estos mensajes simplemente tenemos que.
 
 ![][image4]
 
-## Ejercicio n°003
-
-Concatenar los mensajes
-
-“Hola mi nombre es:” \+ “***poner acá sus nombres***” \+ “y mi edad es:” \+ “***poner acá la edad***”
-
-## Ejercicio n°004
-
-Hacer lo mismo que el ejercicio anterior, pero esta vez, quitarle las “ ” a la edad, solo dejar el número en limpio y ver que sucede.
-
-“Hola mi nombre es:” \+ “***fulano***” \+ “y mi edad es: ” \+ “25”
-
-“Hola mi nombre es:” \+ “***fulano***” \+ “y mi edad es: ” \+ 25
-
-*Como pueden ver en el ejercicio anterior pareciera que se puede sumar un valor numérico junto a valores de texto. En realidad, muy internamente no se puede sumar texto con número, el mismo lenguaje hace un trabajo de conversión en el medio. Y es por estas cosas que C\# contiene algunas cualidades de otros lenguajes de “alto nivel” o “interpretado”.*
-
-# **Variables**
-
-En el ámbito de la programación vamos realizar múltiples algoritmos con operaciones, Dichas operaciones se necesitan almacenar de alguna manera. Para esto existen las variables.
-
-[https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)
-
-En C\# las variables necesitan si o si determinar un **tipo de dato** y un **Identificador/Nombre**
-
-Por ejemplo.
-
-![][image5]
-
-Ahora lo único que necesitamos es darle un valor.
-
-![][image6]
-
-Existen otros tipos de variables, entre las más usadas.
-
-# **bool**
-
-Variable que primitiva sólo puede tener dos valores, verdadero o falso, \[**true\]** \[**false\].**
-
-![][image7]
-
-# **int**
-
-Valores numéricos enteros,  sin decimales.
-
-![][image8]
-
-# **float**
-
-Valores numéricos reales, con decimales (recordar poner el **f** al final del número)
-
-![][image9]
-
-# **string**
-
-valores de texto, o usualmente llamado “cadena de caracteres”
-
-![][image10]
-
-## 
-
-## 
-
-## 
 
 ## Ejercicio n°005
 
