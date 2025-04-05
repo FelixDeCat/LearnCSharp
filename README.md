@@ -15,14 +15,15 @@
     4. [char](\docs\variables\char.md)
     5. [string](\docs\variables\string.md)
     6. [object](\docs\variables\object.md)
-4. [Condicional IF-ELSE](\docs\if.md)  
-5. [Switch](\docs\switch.md)  
-6. [While](\docs\while.md)  
-7. [For](\docs\for.md)  
-8. [Métodos](\docs\methods.md)  
-9. [Colleciones Arrays](\docs\array.md)  
-10. [Colleciones Listas](\docs\list.md)  
-11. [Colleciones Matrices](\docs\exercises.md)  
+4. [Operaciones](\docs\variables\operations.md)
+5. [Condicional IF-ELSE](\docs\if.md)  
+6. [Switch](\docs\switch.md)  
+7. [While](\docs\while.md)  
+8. [For](\docs\for.md)  
+9. [Métodos](\docs\methods.md)  
+10. [Colleciones Arrays](\docs\array.md)  
+11. [Colleciones Listas](\docs\list.md)  
+12. [Colleciones Matrices](\docs\exercises.md)  
 > [Ejercicios](\docs\exercises.md)
 
 
@@ -35,49 +36,11 @@ Para lograr unir estos mensajes simplemente tenemos que.
 ![][image4]
 
 
-## Ejercicio n°005
 
-Crear una variable de valor numérico entero e imprimir el resultado.
-
-## Ejercicio n°006
-
-busquemos nuestro **ejercicio n°003** y volvamos a hacerlo, pero esta vez reemplazando nuestro nombre(string) y nuestra edad(int) con variables
 
 # **Operaciones**
 
-# **suma**
 
-![][image11]
-
-# **resta**
-
-![][image12]
-
-# **multiplicación**  
-
-![][image13]
-
-# **división**
-
-![][image14]
-
-# **módulo**
-
-el módulo es en realidad el resto de una división, si el resto es 0, quiere decir 2 cosas… que el **primer** número es múltiplo del **segundo**.
-
-* que ese **primero** número es **par**.
-
-![][image15]
-
-# **potencia**
-
-![][image16]
-
-![][image17]
-
-# **raíz**
-
-![][image18]
 
 # **If (condicional)**
 

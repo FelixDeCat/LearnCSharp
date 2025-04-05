@@ -100,7 +100,7 @@ print(numero); // Imprime el valor de la variable 'numero'
     int dogs = 20 // es buena práctica escribirla en ingles
     ```
 2. Declara las variables lo más cerca posible de donde se usan.
-> [!NOTE] 
+> [!NOTE]
 > aprovechemos que en C# no necesitamos una estructura especifica de declaracion de variables como por ejemplo en c++ que tenemos que especificamente crear las variables en la zona de cabecera 
 3. Inicializa las variables siempre que sea posible para evitar errores.
 

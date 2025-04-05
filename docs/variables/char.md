@@ -1,4 +1,4 @@
-# **char**
+# **char (caracter)**
 
 El tipo de dato `char` se utiliza para almacenar un único carácter. Los valores de tipo `char` se escriben entre comillas simples (`'`).
 
@@ -6,7 +6,8 @@ El tipo de dato `char` se utiliza para almacenar un único carácter. Los valore
 
 ```csharp
 char letra = 'A';
-Console.WriteLine(letra); // Salida: A
+print(letra); 
+// salida: A
 ```
 
 ## Características
@@ -14,8 +15,5 @@ Console.WriteLine(letra); // Salida: A
 - Tamaño: 2 bytes.
 - Representa un carácter Unicode.
 
-## Ejercicio
-
-Crear una variable de tipo `char` que almacene la inicial de tu nombre y mostrarla por consola.
-
-> #### [volver al inicio](../../README.md)
+---
+> #### [volver al inicio](../../README.md) 

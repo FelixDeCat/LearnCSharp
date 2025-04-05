@@ -6,7 +6,7 @@ El tipo de dato `string` se utiliza para almacenar cadenas de texto. Los valores
 
 ```csharp
 string mensaje = "Hola, mundo!";
-Console.WriteLine(mensaje); // Salida: Hola, mundo!
+print(mensaje); // Salida: Hola, mundo!
 ```
 
 ## Características
@@ -14,8 +14,5 @@ Console.WriteLine(mensaje); // Salida: Hola, mundo!
 - Tamaño: Depende del contenido.
 - Puede contener texto de cualquier longitud.
 
-## Ejercicio
-
-Crear una variable de tipo `string` que almacene tu nombre completo y mostrarla por consola.
-
-> #### [volver al inicio](../../README.md)
+---
+> #### [volver al inicio](../../README.md) 
